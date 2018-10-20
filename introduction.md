@@ -4,6 +4,7 @@ menu:
   main:
     name: "Introduction"
     weight: 10
+weight: 10
 ---
 
 __Historique et versions__

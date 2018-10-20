@@ -4,6 +4,7 @@ menu:
   main:
     name: "Bonnes pratiques"
     weight: 40
+weight: 40
 ---
 
 ## Système de suivi de version de code source

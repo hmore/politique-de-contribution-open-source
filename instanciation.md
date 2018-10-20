@@ -4,6 +4,7 @@ menu:
   main:
     name: "Instanciation"
     weight: 40
+weight: 40
 ---
 
 ## En résumé

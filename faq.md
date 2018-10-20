@@ -4,6 +4,7 @@ menu:
   main:
     name: <abbr title="Foire aux questions">FAQ</abbr>
     weight: 70
+weight: 70
 layout: faq
 ---
 
